@@ -1,0 +1,6 @@
+YATMarketTest:testCancelListing() (gas: 0)
+YATMarketTest:testExample() (gas: 235)
+YATMarketTest:testFulfillListing() (gas: 0)
+YATMarketTest:testListings() (gas: 8575)
+YATMarketTest:testPlaceBid() (gas: 880946)
+YATMarketTest:testUpdateListing() (gas: 7850)
